@@ -1,2 +1,3 @@
 # docker
-This is where I will create my directories for Dockerfiles
+This repo cotains directories with contain Dockerfiles for building
+a variety of containers. 
